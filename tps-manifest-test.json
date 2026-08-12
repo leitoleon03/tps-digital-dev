@@ -1,0 +1,25 @@
+{
+  "version": "remote-test-v1",
+  "generatedAt": 1786492800000,
+  "clientId": "tps-test-client",
+  "deviceId": "tps-test-device",
+  "campaignItems": [
+    {
+      "campaign": {
+        "id": "remote_manifest_test_campaign",
+        "category": "PRUEBA",
+        "title": "Manifest remoto TPS",
+        "subtitle": "Validación de configuración remota.",
+        "callToAction": "Ver más",
+        "qrTitle": "TPS Digital",
+        "qrSubtitle": "Prueba técnica de contenido remoto.",
+        "destinationUrl": "https://www.tpsdigital.co",
+        "mediaType": "IMAGE",
+        "mediaSource": null,
+        "audioEnabled": false,
+        "bannerVolume": 1.0
+      },
+      "mediaAsset": null
+    }
+  ]
+}
