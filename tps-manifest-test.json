@@ -1,9 +1,60 @@
 {
-  "version": "remote-test-v1",
-  "generatedAt": 1786492800000,
+  "version": "remote-test-v2",
+  "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
   "campaignItems": [
+    {
+      "campaign": {
+        "id": "tps_mobility",
+        "category": "MOVILIDAD",
+        "title": "¿Necesitas un taxi?",
+        "subtitle": "Muy pronto podrás solicitarlo desde TPS Mobility.",
+        "callToAction": "Conoce más",
+        "qrTitle": "Pide tu taxi",
+        "qrSubtitle": "Descubre la próxima plataforma de movilidad TPS.",
+        "destinationUrl": "https://www.tpsdigital.co/mobility",
+        "mediaType": "IMAGE",
+        "mediaSource": "banner_tps_mobility",
+        "audioEnabled": false,
+        "bannerVolume": 1.0
+      },
+      "mediaAsset": null
+    },
+    {
+      "campaign": {
+        "id": "tps_advertising",
+        "category": "PUBLICIDAD",
+        "title": "Haz visible tu negocio",
+        "subtitle": "Llega a pasajeros durante sus recorridos por la ciudad.",
+        "callToAction": "Anúnciate con TPS",
+        "qrTitle": "Anuncia tu negocio",
+        "qrSubtitle": "Solicita información sobre nuestros espacios digitales.",
+        "destinationUrl": "https://www.tpsdigital.co/publicidad",
+        "mediaType": "VIDEO",
+        "mediaSource": "banner_tps_mobility_video",
+        "audioEnabled": false,
+        "bannerVolume": 0.70
+      },
+      "mediaAsset": null
+    },
+    {
+      "campaign": {
+        "id": "local_restaurants",
+        "category": "EXPERIENCIAS",
+        "title": "Descubre sabores locales",
+        "subtitle": "Promociones, restaurantes y comercios cerca de ti.",
+        "callToAction": "Escanea el QR",
+        "qrTitle": "Promociones locales",
+        "qrSubtitle": "Conoce restaurantes y comercios aliados.",
+        "destinationUrl": "https://www.tpsdigital.co/promociones",
+        "mediaType": "IMAGE",
+        "mediaSource": "banner_restaurantes",
+        "audioEnabled": false,
+        "bannerVolume": 1.0
+      },
+      "mediaAsset": null
+    },
     {
       "campaign": {
         "id": "remote_manifest_test_campaign",
@@ -19,7 +70,14 @@
         "audioEnabled": false,
         "bannerVolume": 1.0
       },
-      "mediaAsset": null
+      "mediaAsset": {
+        "id": "remote_manifest_test_asset",
+        "mediaType": "IMAGE",
+        "remoteUrl": "https://example.com/tps/remote_manifest_test.webp",
+        "fileName": "remote_manifest_test.webp",
+        "checksum": null,
+        "sizeBytes": 1024
+      }
     }
   ]
 }
