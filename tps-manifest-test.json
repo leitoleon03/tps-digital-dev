@@ -1,5 +1,5 @@
 {
-  "version": "remote-test-v2",
+  "version": "remote-test-v3",
   "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
@@ -53,23 +53,14 @@
         "audioEnabled": false,
         "bannerVolume": 1.0
       },
-      "mediaAsset": null
-    },
-    {
-      "campaign": {
-        "id": "remote_manifest_test_campaign",
-        "category": "PRUEBA",
-        "title": "Manifest remoto TPS",
-        "subtitle": "Validación de configuración remota.",
-        "callToAction": "Ver más",
-        "qrTitle": "TPS Digital",
-        "qrSubtitle": "Prueba técnica de contenido remoto.",
-        "destinationUrl": "https://www.tpsdigital.co",
-        "mediaType": "IMAGE",
-        "mediaSource": null,
-        "audioEnabled": false,
-        "bannerVolume": 1.0
-      },
+    "mediaAsset": {
+  "id": "remote_manifest_test_asset",
+  "mediaType": "IMAGE",
+  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/remote_manifest_test.webp",
+  "fileName": "remote_manifest_test.webp",
+  "checksum": "5bd764af06841e892e504b2aa2f38d83e4ffc45d2b2c1d1db8dd52d2d982645e",
+  "sizeBytes": 798362
+}
       "mediaAsset": {
         "id": "remote_manifest_test_asset",
         "mediaType": "IMAGE",
