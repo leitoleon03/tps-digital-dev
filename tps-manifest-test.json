@@ -75,8 +75,8 @@
         "mediaType": "IMAGE",
         "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/remote_manifest_test.webp",
         "fileName": "remote_manifest_test.webp",
-        "checksum": "5bd764af06841e892e504b2aa2f38d83e4ffc45d2b2c1d1db8dd52d2d982645e",
-        "sizeBytes": 798362
+        "checksum": "392b5246387e03e37ed1a31e0ff342c5f0ab235e78ef7251f20a39d84447cf6a",
+"sizeBytes": 819916
       }
     }
   ]
