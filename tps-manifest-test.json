@@ -1,5 +1,5 @@
 {
-  "version": "remote-test-v4",
+  "version": "remote-test-v5",
   "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
@@ -75,8 +75,8 @@
         "mediaType": "IMAGE",
         "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/remote_manifest_test.webp",
         "fileName": "remote_manifest_test.webp",
-        "checksum": "392b5246387e03e37ed1a31e0ff342c5f0ab235e78ef7251f20a39d84447cf6a",
-        "sizeBytes": 819916
+        "checksum": "3291bdd864df7923036c1fb1b9130bf2a2a970eef7e99d65d8daee422295146b",
+        "sizeBytes": 824885
       }
     }
   ]
