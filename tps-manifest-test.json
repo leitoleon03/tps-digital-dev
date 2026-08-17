@@ -1,5 +1,5 @@
 {
-  "version": "remote-test-v14",
+  "version": "remote-test-v15",
   "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
@@ -92,7 +92,7 @@
         "placement": "MAIN",
         "mediaType": "VIDEO",
         "mediaSource": null,
-        "audioEnabled": false,
+        "audioEnabled": true,
         "bannerVolume": 1.0
       },
       "mediaAsset": {
@@ -117,7 +117,7 @@
         "placement": "MAIN",
         "mediaType": "VIDEO",
         "mediaSource": null,
-        "audioEnabled": false,
+        "audioEnabled": true,
         "bannerVolume": 1.0
       },
  "mediaAsset": {
@@ -144,7 +144,7 @@
         "placement": "MAIN",
         "mediaType": "VIDEO",
         "mediaSource": null,
-        "audioEnabled": false,
+        "audioEnabled": true,
         "bannerVolume": 1.0
       },
 "mediaAsset": {
@@ -169,7 +169,7 @@
         "placement": "MAIN",
         "mediaType": "VIDEO",
         "mediaSource": null,
-        "audioEnabled": false,
+        "audioEnabled": true,
         "bannerVolume": 1.0
       },
 "mediaAsset": {
