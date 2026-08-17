@@ -172,7 +172,7 @@
         "mediaSource": null,
         "audioEnabled": false,
         "bannerVolume": 1.0
-      },
+      }
 "mediaAsset": {
   "id": "main_remote_test_asset_03",
   "mediaType": "VIDEO",
