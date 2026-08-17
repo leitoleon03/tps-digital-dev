@@ -1,5 +1,5 @@
 {
-  "version": "remote-test-v11",
+  "version": "remote-test-v12",
   "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
@@ -103,6 +103,84 @@
         "checksum": "58b87da0cb68cc461dce42bcffa6e691106bd64443f02dc1a3e3a0e51f6ff7fc",
         "sizeBytes": 338530
       }
-    }
+    },
+    {  
+"campaign": {
+        "id": "main_remote_test_campaign_01",
+        "category": "PRUEBA",
+        "title": "Video principal remoto TPS",
+        "subtitle": "Validación de contenido MAIN.",
+        "callToAction": "Ver más",
+        "qrTitle": "TPS Digital",
+        "qrSubtitle": "Prueba técnica de video remoto.",
+        "destinationUrl": "https://www.tpsdigital.co",
+        "placement": "MAIN",
+        "mediaType": "VIDEO",
+        "mediaSource": null,
+        "audioEnabled": false,
+        "bannerVolume": 1.0
+      },
+ "mediaAsset": {
+  "id": "main_remote_test_asset_01",
+  "mediaType": "VIDEO",
+  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_01.mp4",
+  "fileName": "main_remote_test_campaign_01.mp4",
+  "checksum": "a5cdca8e14ec089007e6d06dd407df880817981052383f66aba9b11d88aee6da",
+  "sizeBytes": 309107
+}
+},
+
+{
+
+  "campaign": {
+        "id": "main_remote_test_campaign_02",
+        "category": "PRUEBA",
+        "title": "Video principal remoto TPS",
+        "subtitle": "Validación de contenido MAIN.",
+        "callToAction": "Ver más",
+        "qrTitle": "TPS Digital",
+        "qrSubtitle": "Prueba técnica de video remoto.",
+        "destinationUrl": "https://www.tpsdigital.co",
+        "placement": "MAIN",
+        "mediaType": "VIDEO",
+        "mediaSource": null,
+        "audioEnabled": false,
+        "bannerVolume": 1.0
+      },
+"mediaAsset": {
+  "id": "main_remote_test_asset_02",
+  "mediaType": "VIDEO",
+  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_02.mp4",
+  "fileName": "main_remote_test_campaign_02.mp4",
+  "checksum": "c7de8ff15b622266cd416f7d46f74966514057fb89fc7f0b74fbd607a3ac39db",
+  "sizeBytes": 422307
+}
+},
+{
+
+  "campaign": {
+        "id": "main_remote_test_campaign_03",
+        "category": "PRUEBA",
+        "title": "Video principal remoto TPS",
+        "subtitle": "Validación de contenido MAIN.",
+        "callToAction": "Ver más",
+        "qrTitle": "TPS Digital",
+        "qrSubtitle": "Prueba técnica de video remoto.",
+        "destinationUrl": "https://www.tpsdigital.co",
+        "placement": "MAIN",
+        "mediaType": "VIDEO",
+        "mediaSource": null,
+        "audioEnabled": false,
+        "bannerVolume": 1.0
+      },
+"mediaAsset": {
+  "id": "main_remote_test_asset_03",
+  "mediaType": "VIDEO",
+  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_03.mp4",
+  "fileName": "main_remote_test_campaign_03.mp4",
+  "checksum": "adead5ef7fe4c1b45463c0c1e8b6836c44027354b3437b1f2942a6a7c04c3694",
+  "sizeBytes": 381198
+}
+}
   ]
 }
