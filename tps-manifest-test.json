@@ -1,5 +1,5 @@
 {
-  "version": "remote-test-v19",
+  "version": "remote-test-v20",
   "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
@@ -180,6 +180,6 @@
   "checksum": "adead5ef7fe4c1b45463c0c1e8b6836c44027354b3437b1f2942a6a7c04c3694",
   "sizeBytes": 381198
 }
-},,
+}
   ]
 }
