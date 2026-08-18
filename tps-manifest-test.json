@@ -92,7 +92,7 @@
         "placement": "MAIN",
         "mediaType": "VIDEO",
         "mediaSource": null,
-        "audioEnabled": true,
+        "audioEnabled": false,
         "bannerVolume": 1.0
       },
       "mediaAsset": {
@@ -118,7 +118,7 @@
         "mediaType": "VIDEO",
         "mediaSource": null,
         "audioEnabled": true,
-        "bannerVolume": 1.0
+        "bannerVolume": 0.5
       },
  "mediaAsset": {
   "id": "main_remote_test_asset_01",
@@ -144,7 +144,7 @@
         "placement": "MAIN",
         "mediaType": "VIDEO",
         "mediaSource": null,
-        "audioEnabled": true,
+        "audioEnabled": false,
         "bannerVolume": 1.0
       },
 "mediaAsset": {
@@ -170,7 +170,7 @@
         "mediaType": "VIDEO",
         "mediaSource": null,
         "audioEnabled": true,
-        "bannerVolume": 1.0
+        "bannerVolume": 0.1
       },
 "mediaAsset": {
   "id": "main_remote_test_asset_03",
