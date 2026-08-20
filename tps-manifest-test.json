@@ -1,5 +1,5 @@
 {
-  "version": "remote-test-v22",
+  "version": "remote-test-v23",
   "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
@@ -125,7 +125,7 @@
   "mediaType": "VIDEO",
   "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_01.mp4",
   "fileName": "main_remote_test_campaign_01.mp4",
-  "checksum": "0000000000000000000000000000000000000000000000000000000000000000",
+  "checksum": "a5cdca8e14ec089007e6d06dd407df880817981052383f66aba9b11d88aee6da",
   "sizeBytes": 309107
 }
 },
