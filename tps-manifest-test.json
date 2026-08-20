@@ -1,5 +1,5 @@
 {
-  "version": "remote-test-v23",
+  "version": "remote-test-v24",
   "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
@@ -175,7 +175,7 @@
 "mediaAsset": {
   "id": "main_remote_test_asset_03",
   "mediaType": "VIDEO",
-  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_03.mp4",
+  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/archivo_que_no_existe.mp4",
   "fileName": "main_remote_test_campaign_03.mp4",
   "checksum": "adead5ef7fe4c1b45463c0c1e8b6836c44027354b3437b1f2942a6a7c04c3694",
   "sizeBytes": 381198
