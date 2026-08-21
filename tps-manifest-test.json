@@ -1,5 +1,5 @@
 {
-  "version": "remote-test-v25",
+  "version": "remote-test-v26",
   "generatedAt": 1786669200000,
   "clientId": "tps-test-client",
   "deviceId": "tps-test-device",
@@ -121,12 +121,12 @@
         "bannerVolume": 0.5
       },
  "mediaAsset": {
-  "id": "main_remote_test_asset_01",
+  "id": "main_remote_test_asset_01_v2",
   "mediaType": "VIDEO",
-  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_01.mp4",
-  "fileName": "main_remote_test_campaign_01.mp4",
-  "checksum": "a5cdca8e14ec089007e6d06dd407df880817981052383f66aba9b11d88aee6da",
-  "sizeBytes": 309107
+  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_01_v2.mp4",
+  "fileName": "main_remote_test_campaign_01_v2.mp4",
+  "checksum": "8b0053f8657ee5d10c8c091eba838a9899c93841e0c8019dbb84344f36f9b647",
+  "sizeBytes": 621163
 }
 },
 
@@ -150,7 +150,7 @@
 "mediaAsset": {
   "id": "main_remote_test_asset_02",
   "mediaType": "VIDEO",
-  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_02.mp4",
+  "remoteUrl": "https://raw.githubusercontent.com/leitoleon03/tps-digital-dev/refs/heads/main/main_remote_test_campaign_02_NO_EXISTE.mp4",
   "fileName": "main_remote_test_campaign_02.mp4",
   "checksum": "c7de8ff15b622266cd416f7d46f74966514057fb89fc7f0b74fbd607a3ac39db",
   "sizeBytes": 422307
